@@ -227,6 +227,11 @@ a:active{
     margin-top: 1em;
 }
 
+.about-thali{
+    float: left;
+    margin: 20px;
+}
+
 /* || CONTACT */
 
 .contact__h2 {
